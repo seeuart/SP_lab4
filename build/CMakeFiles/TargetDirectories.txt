@@ -1,0 +1,4 @@
+/Users/art/Desktop/Dev/Lab4/calculator/build/CMakeFiles/lib.dir
+/Users/art/Desktop/Dev/Lab4/calculator/build/CMakeFiles/calculator.dir
+/Users/art/Desktop/Dev/Lab4/calculator/build/CMakeFiles/edit_cache.dir
+/Users/art/Desktop/Dev/Lab4/calculator/build/CMakeFiles/rebuild_cache.dir
